@@ -16,8 +16,8 @@ namespace HomeWork_1._5
             Console.WriteLine("Введите дату MM :dd:yyy");
             data=Console.ReadLine();
            // int data=Convert.ToInt32(data);
-            DataTime dt = Convert.ToDateTime(data);
-            Console.WriteLine(dt.ToLongDataString());
+           // DataTime dt = Convert.ToDateTime(data);
+           // Console.WriteLine(dt.ToLongDataString());
 
         }
     }
